@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **nourbenaouicha123@gmail.com**
 
-- 📄 Know about my experiences: check out my <a href="https://drive.google.com/file/d/1JBkjOr8Y3uwKCAA6htDmtFWfM7YCz_qr/view?usp=sharing">**Resume**
+- 📄 Know about my experiences by checking my <a href="https://drive.google.com/file/d/1JBkjOr8Y3uwKCAA6htDmtFWfM7YCz_qr/view?usp=sharing">**Resume**
   
 - 🖼️ Check out my portfolio 👉 [here](https://nour-ben-aouicha.github.io/)!
 
