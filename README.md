@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences: check out my <a href="https://drive.google.com/file/d/1JBkjOr8Y3uwKCAA6htDmtFWfM7YCz_qr/view?usp=sharing">**Resume**
   
-- 🖼️ ![Portfolio Preview](https://link-to-your-image.com)
+- 🖼️ ![Portfolio Preview]([https://link-to-your-image.com](https://nour-ben-aouicha.github.io/))
 
 
 <h3 align="left">Connect with me:</h3>
